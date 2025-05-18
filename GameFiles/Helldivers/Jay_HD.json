@@ -1,0 +1,80 @@
+[
+    {
+        "Name": "Jay",
+        "Stratagems": [
+            "RS-422 Railgun",
+            "AX/AR-23 Guard Dog",
+            "AC-8 Autocannon",
+            "StA-X3 W.A.S.P. Launcher"
+        ],
+        "Booster": "Flexible Reinforcement Budget",
+        "Armour": "Light",
+        "Date": "17-05-2025",
+        "Time": "20H40"
+    },
+    {
+        "Name": "Jay",
+        "Stratagems": [
+            "Eagle Strafing Run",
+            "Orbital RailCannon Strike",
+            "A/AC-8 AutoCannon Sentry",
+            "APW-1 Anti-Material Rifle"
+        ],
+        "Booster": "Muscle Enhancement",
+        "Armour": "Medium",
+        "Date": "17-05-2025",
+        "Time": "21H27"
+    },
+    {
+        "Name": "jay",
+        "Stratagems": [
+            "EXO-45 Patriot Exosuit",
+            "A/ARC-3 Tesla Tower",
+            "A/MG-43 Machine Gun Sentry",
+            "MG-43 Machine Gun"
+        ],
+        "Booster": "Firebomb Hellpods",
+        "Armour": "Light",
+        "Date": "17-05-2025",
+        "Time": "22H10"
+    },
+    {
+        "Name": "Jay",
+        "Stratagems": [
+            "M-102 Fast Recon Vehicle",
+            "Orbital 120MM HE Barrage",
+            "Orbital Gas Strike",
+            "M-105 Stalwart"
+        ],
+        "Booster": "Stamina Enhancement",
+        "Armour": "Medium",
+        "Date": "18-05-2025",
+        "Time": "12H12"
+    },
+    {
+        "Name": "Jay",
+        "Stratagems": [
+            "Eagle Airstrike",
+            "Orbital Precision Strike",
+            "GR-8 Recoilless Rifle",
+            "B-1 Supply Pack"
+        ],
+        "Booster": "Vitality Enhancement",
+        "Armour": "Light",
+        "Date": "18-05-2025",
+        "Time": "12H41"
+    },
+    {
+        "Name": "Jay",
+        "Stratagems": [
+            "Eagle Cluster Bomb",
+            "Orbital 380MM HE Barrage",
+            "LIFT-850 Jump Pack",
+            "A/FLAM-40 Flame Sentry"
+        ],
+        "Booster": "Flexible Reinforcement Budget",
+        "Armour": "Medium",
+        "Date": "18-05-2025",
+        "Time": "13H22"
+    }
+]

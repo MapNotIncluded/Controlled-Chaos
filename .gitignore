@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm / JetBrains IDE files
+.idea/
+*.iml
+
+# Virtual environments
+.venv/
+
+# Backup files not used in program
+BackUp Game Data*
+
+# Lock files (if you add later)
+*.lock
+
+# System files
+.DS_Store
+Thumbs.db

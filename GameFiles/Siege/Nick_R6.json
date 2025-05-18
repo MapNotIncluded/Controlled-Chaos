@@ -1,0 +1,19 @@
+[
+    {
+        "Name": "Nick",
+        "Attackers": [
+            "Fuze",
+            "Rauora"
+        ],
+        "Defenders": [
+            "Fenrir",
+            "Frost"
+        ],
+        "Overtime": [
+            "Capitao",
+            "Clash"
+        ],
+        "Date": "31-03-2025",
+        "Time": "21H01"
+    }
+]

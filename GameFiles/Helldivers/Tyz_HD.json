@@ -1,0 +1,80 @@
+[
+    {
+        "Name": "Tyz",
+        "Stratagems": [
+            "A/AC-8 AutoCannon Sentry",
+            "Orbital 120MM HE Barrage",
+            "GL-21 Grenade Launcher",
+            "Orbital Napalm Barrage"
+        ],
+        "Booster": "Increased Reinforcement Budget",
+        "Armour": "Medium",
+        "Date": "17-05-2025",
+        "Time": "20H40"
+    },
+    {
+        "Name": "Tyz",
+        "Stratagems": [
+            "Orbital RailCannon Strike",
+            "MG-206 Heavy Machine Gun",
+            "Eagle Strafing Run",
+            "A/MLS-4X Rocket Sentry"
+        ],
+        "Booster": "Expert Extraction Pilot",
+        "Armour": "Light",
+        "Date": "17-05-2025",
+        "Time": "21H27"
+    },
+    {
+        "Name": "tyz",
+        "Stratagems": [
+            "Orbital Gatling Barrage",
+            "SH-32 Shield Generator Pack",
+            "FX-12 Shield Generator Relay",
+            "MD-6 Anti-Personnel Minefield"
+        ],
+        "Booster": "Dead Sprint",
+        "Armour": "Medium",
+        "Date": "17-05-2025",
+        "Time": "22H10"
+    },
+    {
+        "Name": "Tyz",
+        "Stratagems": [
+            "AX/AR-23 Guard Dog",
+            "RS-422 Railgun",
+            "Flam-40 Flamethrower",
+            "Eagle Cluster Bomb"
+        ],
+        "Booster": "Armed Resupply Pods",
+        "Armour": "Heavy",
+        "Date": "18-05-2025",
+        "Time": "12H12"
+    },
+    {
+        "Name": "Tyz",
+        "Stratagems": [
+            "Orbital Laser",
+            "LAS-98 Laser Cannon",
+            "Orbital Smoke Strike",
+            "A/G-16 Gatling Sentry"
+        ],
+        "Booster": "Increased Reinforcement Budget",
+        "Armour": "Light",
+        "Date": "18-05-2025",
+        "Time": "12H41"
+    },
+    {
+        "Name": "Tyz",
+        "Stratagems": [
+            "Eagle Napalm Airstrike",
+            "Orbital EMS Strike",
+            "EAT-17 Expendable Anti-Tank",
+            "A/M-23 EMS Mortar Sentry"
+        ],
+        "Booster": "Dead Sprint",
+        "Armour": "Heavy",
+        "Date": "18-05-2025",
+        "Time": "13H22"
+    }
+]
