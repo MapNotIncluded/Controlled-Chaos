@@ -6,16 +6,16 @@ for the Rainbow Six Siege and Helldivers 2 video games.
 
 ## Background
 
-After a casual evening out, I came home and played Helldivers 2 with a friend. 
+Following a casual evening out, I came home and played Helldivers 2 with a friend. 
 After a few months of casual gameplay, we had found that the challenge had mostly disappeared.
-I felt this was largely because we were relying on the same familiar stratagems for our specific play-styles.
+I felt this was largely because we tended to rely on the same familiar stratagems for our specific play-styles.
 
 To shake things up, I thought it would be fun (and more chaotic) to randomize the stratagems we used during missions. 
 Since Helldivers didn’t offer this feature, I figured why not build it myself.
 
 What started as a very simple tool to pick random stratagems quickly turned into a fully customizable game randomizer 
 — complete with player profiles, cooldowns, incompatible stratagem pairings, and so much more. 
-It’s brought back excitement, unpredictability, and countless hours of laughter and swearing into our game nights.
+It’s reintroduced excitement, unpredictability, and countless hours of laughter and profanities in our game nights.
 
 ## About the Program
 
