@@ -4,6 +4,8 @@
 A Python tool that randomly assigns unique operators, stratagems, and boosters to players 
 for the Rainbow Six Siege and Helldivers 2 video games. 
 
+---
+
 ## Background
 
 Following a casual evening out, I came home and played Helldivers 2 with a friend. 
@@ -17,6 +19,8 @@ What started as a very simple tool to pick random stratagems quickly turned into
 — complete with player profiles, cooldowns, incompatible stratagem pairings, and so much more. 
 It’s reintroduced excitement, unpredictability, and countless hours of laughter and profanities in our game nights.
 
+---
+
 ## About the Program
 
 This program generates randomized loadouts for players in Rainbow Six Siege and Helldivers 2.
@@ -25,6 +29,8 @@ based on their personal unlock history and the operators/stratagems that have be
 
 The program ensures fairness by avoiding duplication, honoring cooldown periods, and preventing banned combinations. 
 Player sessions are saved to json files, and administrators can modify game data or view what’s available for each player.
+
+---
 
 ## Features
 
@@ -41,6 +47,8 @@ Player sessions are saved to json files, and administrators can modify game data
   - Check what content is still available per player
 - 💾 Automatically saves player selections and game state to files
 
+---
+
 ## How to Run
 
 1. Ensure you have **Python 3.10+** installed.
@@ -49,15 +57,10 @@ Player sessions are saved to json files, and administrators can modify game data
 4. Run the program:
 
 ```bash
-python3 main.py
+  python3 main.py
 ```
 
-## Technologies Used:
-- ![Python](https://img.shields.io/badge/Python-3.11-blue)
-- ![JSON](https://img.shields.io/badge/Data-JSON-blueviolet)
-- ![Git](https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-orange)
-- ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green)
-- ![Windows](https://img.shields.io/badge/Platform-Windows-darkred)
+---
 
 ## Planned Features
 
@@ -65,3 +68,28 @@ python3 main.py
 - 🌐 Web interface using Flask for multiplayer access
 - 🔐 File locking system to prevent simultaneous writes and corruption
 - ⚙️ Optional unit tests to validate cooldown expiry and banned pair enforcement
+
+---
+
+## 🔧 Built with:
+- ![Python](https://img.shields.io/badge/Python-3.11-blue)
+- ![JSON](https://img.shields.io/badge/Data-JSON-blueviolet)
+- ![Git](https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-orange)
+- ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green)
+- ![Windows](https://img.shields.io/badge/Platform-Windows-darkred)
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
+---
+
+## 👤 Author
+
+**Jason Anderson**  
+_Computer Science Student_  
+_Interests: Programming • Cybersecurity • Data Science_  
+GitHub: @MapNotIncluded
+
+---
