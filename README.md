@@ -27,7 +27,7 @@ This program generates randomized loadouts for players in Rainbow Six Siege and 
 Players are assigned unique combinations of operators (Siege) or stratagems, boosters, and armor (Helldivers), 
 based on their personal unlock history and the operators/stratagems that have been previously generated for them within the last 7 days. 
 
-The program ensures fairness by avoiding duplication, honoring cooldown periods, and preventing banned combinations. 
+The program ensures fairness by avoiding duplication, honouring cooldown periods, and preventing banned combinations. 
 Player sessions are saved to json files, and administrators can modify game data or view what’s available for each player.
 
 ---
