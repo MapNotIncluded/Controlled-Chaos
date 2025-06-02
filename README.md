@@ -114,14 +114,12 @@ python3 main.py
 This project is licensed under the MIT License.
 
 ---
-
 ## 👤 Author
-Jason Anderson
-Computer Science Student
-Interests: Programming • Cybersecurity • Data Science
 
-GitHub: @MapNotIncluded
+**Jason Anderson**  
+_Computer Science Student_  
+_Interests: Programming • Cybersecurity • Data Science_  
+GitHub: [@MapNotIncluded](https://github.com/MapNotIncluded)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
