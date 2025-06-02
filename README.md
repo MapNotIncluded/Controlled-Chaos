@@ -28,8 +28,7 @@ Following a casual evening out, I came home and played Helldivers 2 with a frien
 After a few months of casual gameplay, we had found that the challenge had mostly disappeared.  
 I felt this was largely because we tended to rely on the same familiar stratagems for our specific play-styles.
 
-To shake things up, I thought it would be fun (and more chaotic) to randomize the stratagems we used during missions.  
-Since Helldivers didn’t offer this feature, I figured why not build it myself.
+To shake things up, I thought it would be fun (and more chaotic) to randomize the stratagems we used during missions. Since Helldivers didn’t offer this feature, I figured why not build it myself.
 
 What started as a very simple tool to pick random stratagems quickly turned into a fully customizable game randomizer — complete with player profiles, cooldowns, incompatible stratagem pairings, and much more.  
 It’s reintroduced excitement, unpredictability, and countless hours of laughter and profanities in our game nights.
@@ -40,10 +39,9 @@ It’s reintroduced excitement, unpredictability, and countless hours of laughte
 
 This program generates randomized loadouts for players in Rainbow Six Siege and Helldivers 2.  
 Players are assigned unique combinations of operators (Siege) or stratagems, boosters, and armor (Helldivers),  
-based on their personal unlock history and the operators/stratagems that have been previously generated for them within the last 7 days.
+based on the operators/stratagems that have been previously generated for them within the last 7 days.
 
-The program ensures fairness by avoiding duplication, honoring cooldown periods, and preventing banned combinations.  
-Player sessions are saved to JSON files, and administrators can modify game data or view what’s available for each player.
+The program ensures fairness by avoiding duplication, honoring cooldown periods, and preventing banned combinations. Player sessions are saved to JSON files, and administrators can modify game data or view what’s available for each player.
 
 ---
 
@@ -117,10 +115,11 @@ This project is licensed under the MIT License.
 
 ---
 
-👤 Author
+## 👤 Author
 Jason Anderson
 Computer Science Student
 Interests: Programming • Cybersecurity • Data Science
+
 GitHub: @MapNotIncluded
 
 <p align="right">(<a href="#top">back to top</a>)</p>
