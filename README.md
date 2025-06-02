@@ -31,8 +31,7 @@ I felt this was largely because we tended to rely on the same familiar stratagem
 To shake things up, I thought it would be fun (and more chaotic) to randomize the stratagems we used during missions.  
 Since Helldivers didn’t offer this feature, I figured why not build it myself.
 
-What started as a very simple tool to pick random stratagems quickly turned into a fully customizable game randomizer  
-— complete with player profiles, cooldowns, incompatible stratagem pairings, and much more.  
+What started as a very simple tool to pick random stratagems quickly turned into a fully customizable game randomizer — complete with player profiles, cooldowns, incompatible stratagem pairings, and much more.  
 It’s reintroduced excitement, unpredictability, and countless hours of laughter and profanities in our game nights.
 
 ---
@@ -124,6 +123,6 @@ Computer Science Student
 Interests: Programming • Cybersecurity • Data Science
 GitHub: @MapNotIncluded
 
-<p align="right">(<a href="#top">back to top</a>)</p> ```
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
